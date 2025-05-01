@@ -1,0 +1,10 @@
+form {
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  #cart-items {
+    max-width: 500px;
+    margin: auto;
+    margin-top: 1rem;
+  }
